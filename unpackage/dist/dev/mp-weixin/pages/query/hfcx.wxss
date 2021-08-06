@@ -1,0 +1,8 @@
+
+.margin-five{
+	margin-top:5px;
+}
+input{
+	text-align: right;
+}
+
